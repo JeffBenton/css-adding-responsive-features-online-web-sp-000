@@ -1,4 +1,4 @@
-@media only screen (min-width=1108px) {
+@media only screen (max-width=1108px) {
   .wrapper {
     width: 90%;
   }
@@ -9,4 +9,8 @@
     margin-top: 82px;
     margin-right: 4px;
   }
+}
+
+@media only screen (max-width=900px) {
+  
 }
